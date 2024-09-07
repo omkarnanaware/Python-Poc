@@ -1,6 +1,7 @@
 # Filename: DictionaryOperations.py
 
-'''Accessing Values: Retrieves the value associated with a specific key.
+'''
+Accessing Values: Retrieves the value associated with a specific key.
 Adding/Updating Key-Value Pairs: Adds a new key-value pair or updates an existing one.
 Checking if Key Exists: Checks whether a specific key exists in the dictionary.
 Removing Key-Value Pairs: Deletes a key-value pair using del or pop().
@@ -14,7 +15,8 @@ Copying a Dictionary: Creates a shallow copy of the dictionary.
 Nested Dictionaries: Accesses values inside nested dictionaries.
 Default Values with setdefault(): Returns a value for a key or adds it with a default value.
 Converting Keys/Values to Lists: Converts keys or values to lists.
-Sorting a Dictionary (Keys): Sorts a dictionary by its keys using sorted().'''
+Sorting a Dictionary (Keys): Sorts a dictionary by its keys using sorted().git a
+'''
 
 
 # Dictionary Creation
